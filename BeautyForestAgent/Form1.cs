@@ -43,10 +43,6 @@ namespace BeautyForestAgent
             VisibleChange(false);
         }
 
-        private void NtiTray_MouseDoubleClick(object sender, MouseEventArgs e)
-        {
-            VisibleChange(true);
-        }
     }
 
 }
